@@ -13,9 +13,9 @@ Main dataset containing research paper abstracts and metadata for clustering ana
 Jupyter Notebook implementing k-means clustering to identify thematic clusters in NLP research using `abstract_updated.csv`.
 
 ### `bib_updated.RData`
-R data file with processed bibliometric data for statistical analysis in `analysis_v2.R`.
+R data file with processed bibliometric data for statistical analysis in `bibliometric_analysis_v2.R`.
 
-### `analysis_v2.R`
+### `bibliometric_analysis_v2.R`
 R script performing statistical and visual analysis of bibliometric data from `bib_updated.RData`.
 
 ### `burst_detection_updated.py`
