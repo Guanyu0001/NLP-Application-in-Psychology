@@ -21,6 +21,8 @@ R script performing statistical and visual analysis of bibliometric data from `b
 ### `burst_detection_updated.py`
 Python script analyzing bibliometric data to detect significant temporal research trends or "bursts."
 
+### `exported_dataframe.csv`
+The dataset containing the keywords and publication year for each included study for burst detection analysis in `burst_detection_updated.py`.
 
 ## Getting Started
 
