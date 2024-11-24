@@ -35,4 +35,3 @@ To run the scripts and notebooks, ensure you have the following installed:
    ```bash
    git clone https://github.com/Guanyu0001/NLP-Application-in-Psychology.git
    cd NLP-Application-in-Psychology
-
