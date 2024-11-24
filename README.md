@@ -1,9 +1,8 @@
 # A Bibliometric Review of Natural Language Processing Applications in Psychology from 1991 to 2023
 
 ## Project Overview
-This repository accompanies the study titled **"A Bibliometric Review of Natural Language Processing Applications in Psychology from 1991 to 2023"**. It contains the necessary scripts, data files, and notebooks used for clustering, bibliometric analysis, and burst detection tasks.
-
-The project focuses on bibliometric analysis of NLP applications in psychology, offering insights into trends, patterns, and key topics in the field.
+The R and Python code for the following publication is provided here.
+Chen, G., Tan, B., Laham, N., Tracey, T., Lapinski, S., & Liu, Y. (2024). A review of natural language processing applications in psychology from 1991 to 2020. Basic and Applied Social Psychology. DOI: 10.1080/01973533.2024.2433720
 
 ## Files and Their Purpose
 
