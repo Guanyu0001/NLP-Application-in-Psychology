@@ -1,7 +1,7 @@
 # A Bibliometric Review of Natural Language Processing Applications in Psychology from 1991 to 2023
 
 ## Project Overview
-This repository accompanies the study titled **"A Bibliometric Review of Natural Language Processing Applications in Psychology from 1991 to 2023"**. It contains the necessary scripts, data files, and notebooks used for clustering, analysis, and burst detection tasks.
+This repository accompanies the study titled **"A Bibliometric Review of Natural Language Processing Applications in Psychology from 1991 to 2023"**. It contains the necessary scripts, data files, and notebooks used for clustering, bibliometric analysis, and burst detection tasks.
 
 The project focuses on bibliometric analysis of NLP applications in psychology, offering insights into trends, patterns, and key topics in the field.
 
